@@ -4,7 +4,8 @@
   "description": "Шаблон сайта написанный на node.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "call test.bat"
   },
   "repository": {
     "type": "git",
